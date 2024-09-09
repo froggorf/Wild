@@ -13,5 +13,7 @@ UCLASS()
 class WILD_API AWildMainCharacter : public AWildCharacter
 {
 	GENERATED_BODY()
+
+	
 	
 };
